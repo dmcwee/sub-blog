@@ -28,7 +28,7 @@ github_username:  dmcwee
 
 # Build settings
 #theme: jekyll-theme-slate
-remote-theme: pages-themes/slate@v0.2.0
+remote-theme: "pages-themes/slate@v0.2.0"
 
 plugins:
   - jekyll-feed
