@@ -18,13 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: David McWee - Testing
+title: David McWee - subblog and test site
 email: nope@nope.com
 description: Just testing themes and publishing sub repos using pages
 baseurl: "/sub-blog" # the subpath of your site, e.g. /blog
 url: "https://davidmcwee.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dmcwee
 github_username:  dmcwee
+
+bs-theme: "light"
+nav-bs-theme: "dark"
 
 # Build settings
 # theme: jekyll-theme-slate
