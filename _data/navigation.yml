@@ -1,8 +1,8 @@
 - name: Welcome
-  link: /2023/01/13/welcome-to-jekyll
-- name: Data 2
+  link: ./2023/01/13/welcome-to-jekyll
+- name: Link 1
   link: #
-- name: Data 3
+- name: Link 2
   link: #
 - name: About
-  link: /about
+  link: ./about
